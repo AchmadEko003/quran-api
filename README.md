@@ -5,7 +5,8 @@ This API data from several source from [The Noble Qur'an Encyclopedia](https://q
 
 ### Features
 - [x] Arabic Transliteration
-- [x] English (Coming Soon) and Indonesia translation
+- [x] English (Coming Soon) and Indonesia translation Qur'an
+- [x] Daily Prayer
 
 ### Data Source
 - [The Noble Qur'an Encyclopedia](https://quranenc.com/en/home) = Indonesia and English Translations.
