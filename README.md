@@ -19,5 +19,4 @@ This API data from several source from [The Noble Qur'an Encyclopedia](https://q
 ### Endpoint
 You can open [Demo](https://api.madko.id/swagger/index.html) link for endpoint list.
 
----
 Copyright © 2023 by AchmadEko003 (Pururu)
